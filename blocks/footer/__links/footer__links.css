@@ -1,0 +1,18 @@
+.footer__links {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    min-height: 248px;
+}
+
+@media screen and (min-width: 768px) {
+    .footer__links {
+        flex-direction: row;
+        min-width: 465px;
+        min-height: 18px;
+    }
+}
