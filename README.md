@@ -13,4 +13,4 @@
 * Подключение шрифтов;
 * Создание GitHub Pages;
 
-Проект можно посмотреть по [ссылке](https://mariatsay.github.io/russian-travel/)
+Проект можно посмотреть по [ссылке](https://mariatsay.github.io/russian-travel/index.html)
