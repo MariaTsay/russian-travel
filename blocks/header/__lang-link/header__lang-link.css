@@ -9,6 +9,11 @@
     margin: 0;
     color: #FFFFFF;
     width: 22px;
+    text-decoration: none;
+}
+
+.header__lang-link:hover {
+    opacity: 0.8;
 }
 
 @media screen and (min-width: 768px) {
