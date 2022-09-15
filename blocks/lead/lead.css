@@ -3,12 +3,6 @@
     width: 100%;
 }
 
-@media screen and (min-width: 1024px) {
-    .lead {
-        width: 90%;
-        margin: 0 auto;
-    }
-}
 
 @media screen and (min-width: 1280px) {
     .lead {
